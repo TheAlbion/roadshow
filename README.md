@@ -61,13 +61,6 @@ Cleaning, doing every gradle tasks from scratch:
 
 ### Static analysis
 
-You can run all supported static analysis checks with:
-
-`./gradlew staticanalysis`
-
-It will check on both main and test sources and report to xml files.
-
-There are different analysis available:
 
 * PMD
 * checkstyle
